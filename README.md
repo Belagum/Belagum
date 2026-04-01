@@ -23,7 +23,6 @@
 
 - 🐍 Python is my main stack
 - 🌐 Full-Stack Developer focused on web products
-- 🚀 Working on freelance projects, personal products, and continuous self-growth
 - 👀 Currently building: `something interesting...`
 
 ---
