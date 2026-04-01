@@ -37,7 +37,7 @@
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,ts,js,html,css,tailwind,vite,docker,postgresql,sqlite,redis,git,github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,ts,js,html,css,tailwind,vite,docker,postgresql,sqlite,redis,git,github" />
 </p>
 
 ---
