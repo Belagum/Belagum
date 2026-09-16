@@ -25,19 +25,6 @@
 
 ---
 
-## Featured projects
-
-### [Lucidy](https://github.com/Belagum/Lucidy)
-Full-stack AI chat application with Django, React, TypeScript, Vite, Tailwind, and Docker.
-
-### [Telegram-gifts-autobuy](https://github.com/Belagum/Telegram-gifts-autobuy)
-Web panel and bot for monitoring and auto-buying Telegram gifts with multi-account workflows.
-
-### [summarize-on-select](https://github.com/Belagum/summarize-on-select)
-Browser extension for Chrome and Firefox that summarizes selected text instantly.
-
----
-
 ## Activity
 
 <p align="center">

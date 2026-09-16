@@ -25,19 +25,6 @@
 
 ---
 
-## Избранные проекты
-
-### [Lucidy](https://github.com/Belagum/Lucidy)
-Full-stack AI чат-приложение на Django, React, TypeScript, Vite, Tailwind и Docker.
-
-### [Telegram-gifts-autobuy](https://github.com/Belagum/Telegram-gifts-autobuy)
-Веб-панель и бот для мониторинга и автопокупки Telegram-подарков с поддержкой нескольких аккаунтов.
-
-### [summarize-on-select](https://github.com/Belagum/summarize-on-select)
-Расширение для Chrome и Firefox, которое суммаризирует выделенный текст.
-
----
-
 ## Активность
 
 <p align="center">
