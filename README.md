@@ -33,14 +33,6 @@
 
 ---
 
-## Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,ts,js,html,css,tailwind,vite,docker,postgresql,sqlite,redis,git,github" />
-</p>
-
----
-
 ## Featured projects
 
 ### [Lucidy](https://github.com/Belagum/Lucidy)
@@ -71,10 +63,4 @@ Browser extension for Chrome and Firefox that summarizes selected text instantly
   <a href="mailto:belagum@belagum.ru">
     <img src="https://img.shields.io/badge/Email-belagum%40belagum.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" />
 </p>
