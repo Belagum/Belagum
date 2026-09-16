@@ -19,14 +19,6 @@
 
 ---
 
-## About me
-
-- 🐍 Python is my main stack
-- 🌐 Full-Stack Developer focused on web products
-- 👀 Currently building: `something interesting...`
-
----
-
 ## Languages
 
 `Python` `JavaScript` `TypeScript`
